@@ -1,4 +1,24 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,50:2A5298,100:0F2027&height=220&section=header&text=Prem%20Sudharshan%20Y&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20Python%20%7C%20SQL&descAlignY=60" />
-</p>
+<table>
+<tr>
+<td width="40%">
 
+<img src="profile.png" width="100%" style="border-radius:50%;" />
+
+</td>
+
+<td width="60%">
+
+# 🌸 Hey there, I’m Prem!
+
+Welcome to my GitHub profile 😊  
+I’m passionate about **Data Analytics, dashboards, and solving real-world problems with data.**
+
+- 🔧 Projects I’m building  
+- 📊 Insights from data  
+- 💡 Learning & growing every day  
+
+Let’s connect and grow together 🚀  
+
+</td>
+</tr>
+</table>
