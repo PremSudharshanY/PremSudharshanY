@@ -1,24 +1,30 @@
-<table>
-<tr>
-<td width="40%">
-
-<img src="profile.png" width="100%" style="border-radius:50%;" />
-
-</td>
-
-<td width="60%">
-
 # 🌸 Hey there, I’m Prem!
 
 Welcome to my GitHub profile 😊  
-I’m passionate about **Data Analytics, dashboards, and solving real-world problems with data.**
 
-- 🔧 Projects I’m building  
-- 📊 Insights from data  
-- 💡 Learning & growing every day  
+I’m passionate about growing in my career, learning new tech skills, and building real-world data projects.
 
-Let’s connect and grow together 🚀  
+Here, you’ll find:
 
-</td>
-</tr>
-</table>
+- 🚀 Data Analytics Projects  
+- 📊 Power BI Dashboards  
+- 🧠 SQL & Python Insights  
+- 💡 Things I learn along the way  
+
+Whether you're here to explore projects or learn something new — you're in the right place!
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](YOUR_LINK)
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
+![Power BI](https://img.shields.io/badge/powerbi-yellow?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/excel-green?style=for-the-badge&logo=microsoft-excel)
