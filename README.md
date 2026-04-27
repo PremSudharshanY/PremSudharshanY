@@ -1,16 +1,18 @@
 ## 🌸 Hey there, I’m so glad you’re here!
 
-Welcome to my little corner of GitHub!  
-I’m passionate about growing in my career, picking up new tech skills, and making work life a *little* less overwhelming (and a lot more fun). Here, you'll find:
+Welcome to my GitHub profile!  
+I’m passionate about building strong data analytics skills, solving real-world problems, and continuously improving through hands-on projects.
 
-- 🛠️ Projects I’m building or contributing to  
-- 📚 Things I’ve learned while juggling work, deadlines, and debugging  
-- 🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle  
+Here, you'll find:
 
-Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🫶  
+- 🚀 End-to-End Data Analytics Projects solving real-world business problems  
+- 📊 Actionable insights using SQL, Python & Power BI for data-driven decisions  
+- 📈 Focus on business impact, performance optimization & data storytelling  
 
-**Let’s connect, learn, and grow together—one repo at a time.**  
-You bring the snacks, I’ll bring the code 🍪💻  
+Whether you're here to explore projects, evaluate my work, or collaborate—you’re in the right place.  
+
+**Let’s connect and create data-driven solutions that make an impact.**  
+*Transforming data into insights that drive real business decisions.*
 
 ---
 
